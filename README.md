@@ -17,4 +17,4 @@ Last but not least, there was a severe skew in the class distribution. One appro
 
 Basically, above is a brief picture of how I will present my work. I am not going to include every project here.
 
-Last, I am doing this to enhance my own learning, not to teach. If I want to present it, I got to organize the content as well as my language. I've never done this, but it is good to try. 
+Last, I am doing this to enhance my own learning, not to teach. If I want to present it, I got to organize the content as well as my language. I've never done this, but it is good to try. And you are very welcomed to point out my mistakes. I will be really grateful.
